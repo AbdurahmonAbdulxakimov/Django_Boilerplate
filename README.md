@@ -1,1 +1,1 @@
-# UzNews Backend
+# Django Boilerplate Backend
